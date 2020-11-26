@@ -151,9 +151,9 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/header-bg.jpg) no-repeat center top;
-  margin-top: 60px;
-  padding-top: 140px;
+  background: url(../img/my2020.jpeg) no-repeat center top;
+  margin-top: 40px;
+  padding-top: 10px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
